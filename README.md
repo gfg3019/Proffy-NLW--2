@@ -31,4 +31,4 @@ como:
 ![Imagem do projeto web](https://github.com/gfg3019/Proffy-NLW--2/blob/master/TeleCerta.png)
 
 ## imagens do projeto mobile
-![Imagens do projeto mobile](https://github.com/gfg3019/Proffy-NLW--2/blob/master/TelasMobile.png)
+![Imagens do projeto mobile](https://github.com/gfg3019/Proffy-NLW--2/blob/master/telaMMObile.png)
